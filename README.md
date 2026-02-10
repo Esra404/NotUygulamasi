@@ -57,7 +57,7 @@ geçiş yapılabilecek şekilde düşünülmüştür.
    - Kendi notlarını listeleyebilir
    - Not güncelleyebilir
    - Not silebilir
-   - <img width="512" height="299" alt="image" src="https://github.com/user-attachments/assets/69d77097-1a7d-4e5b-99a6-bb5251e04bc4" />
+<img width="512" height="299" alt="image" src="https://github.com/user-attachments/assets/69d77097-1a7d-4e5b-99a6-bb5251e04bc4" />
 
 6. Notlar JSON dosyasına kaydedilir ve program kapansa bile korunur
 <img width="469" height="312" alt="image" src="https://github.com/user-attachments/assets/b301f504-803e-4208-b980-6fd25b4fa31a" />
