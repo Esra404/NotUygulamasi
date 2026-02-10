@@ -1,0 +1,6 @@
+@notUygulamasi_HostAddress = http://localhost:5121
+
+GET {{notUygulamasi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
